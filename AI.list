@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,manhuagui
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -25,7 +26,6 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,18comic.ink
-DOMAIN-KEYWORD,manhuagui
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,mhgui.com
 DOMAIN,tw.manhuagui.com
